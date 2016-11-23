@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sp_basket">Baloncesto</string>
+    <string name="sp_soccer">Fútbol</string>
+    <string name="sp_motorbike">Motociclismo</string>
+    <string name="sp_boxing">Boxeo</string>
+    <string name="sp_volley">Vóleybol</string>
+    <string name="sp_f1">Fórmula 1</string>
+    <string name="sp_chess">Ajedrez</string>
+    <string name="sp_cycling">Ciclismo</string>
+</resources>

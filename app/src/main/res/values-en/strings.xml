@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sports</string>
+    <string name="sp_basket">Basket</string>
+    <string name="sp_boxing">Boxing</string>
+    <string name="sp_chess">Chess</string>
+    <string name="sp_cycling">Cycling</string>
+    <string name="sp_f1">Formula 1</string>
+    <string name="sp_motorbike">Motorbikes</string>
+    <string name="sp_soccer">Soccer</string>
+    <string name="sp_volley">Volleyball</string>
+    <string name="app_description">Check the sports you like and tap on \'Ok\'</string>
+    <string name="btnOk">Ok</string>
+    <string name="filter">Sports Filtering</string>
+</resources>
